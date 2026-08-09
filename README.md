@@ -14,6 +14,7 @@
 - 🎓 B.Tech in Computer Science at **LTCE, Mumbai University** — specializing in IoT, Cyber Security & Blockchain
 - 🔐 Breaking things (legally) to learn how to defend them
 - 🌐 Building a strong foundation in networking, ethical hacking & vulnerability assessment
+- 🔍 Diving into **cybersecurity** — from CLI-based recon and OSINT to CVE hunting and vulnerability scanning
 - 🔧 Exploring **embedded systems & IoT security** (ESP32, Raspberry Pi Pico W, Arduino) alongside my security track
 ---
 
@@ -37,15 +38,6 @@
   <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethical-karan&show_icons=true&theme=default&hide_title=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethical-karan" width="48%" />
 </p>
 
 ---
